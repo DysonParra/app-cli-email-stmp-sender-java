@@ -30,7 +30,7 @@ import javax.mail.internet.MimeMessage;
 public class EmailSenderService {
 
     /**
-     * TODO: Description of {@code sendEmail}.
+     * TODO: Description of method {@code sendEmail}.
      *
      */
     public void sendEmail() {
