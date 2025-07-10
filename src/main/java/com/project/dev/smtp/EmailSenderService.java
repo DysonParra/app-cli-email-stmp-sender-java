@@ -1,5 +1,5 @@
 /*
- * @fileoverview    {EmailSenderService}
+ * @overview        {EmailSenderService}
  *
  * @version         2.0
  *
